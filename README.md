@@ -1,6 +1,28 @@
-## Hi there 👋
-### I'm **Hiba** 
-### Software Engineer 
+### Hi there 👋
+#### I'm **Hiba** :simple_smile:
+
+##### A Syrian software engineer who graduated from Zarqa University in 2021 :computer:
+##### Full-Stack Developer :fire:
+  
+
+##### The languages I use:
+> HTML CSS JavaScript Java :smirk_cat:
+
+##### Some of the techniques I dell with it:
+> Git GitHub Node.js React Express MongoDB :globe_with_meridians:
+
+#### Let me tell you about my life with programming in a nutshell:
+
+` person me = new perso();
+if(me.live()){
+me.wakeUp();
+me.drinkCoffee();
+me.eat();
+me.drinkCoffee();
+me.code();
+me.dinkCoffee();
+me.sleep();
+} `
 
 
 <!--
