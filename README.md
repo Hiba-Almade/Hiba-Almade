@@ -5,11 +5,15 @@
 ##### Full-Stack Developer :fire:
   
 
+
+
 ##### The languages I use:
    HTML CSS JavaScript Java :smirk_cat:
 
 ##### Some of the techniques I dell with it:
    Git GitHub Node.js React Express MongoDB :globe_with_meridians:
+
+
 
 #### Let me tell you about my life with programming in a nutshell: :runner:
 
