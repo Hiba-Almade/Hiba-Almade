@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I'm **Hiba** :simple_smile:
+#### I'm **Hiba**  :simple_smile:
 
 ##### A Syrian software engineer who graduated from Zarqa University in 2021 :computer:
 ##### Full-Stack Developer :fire:
@@ -14,14 +14,32 @@
 #### Let me tell you about my life with programming in a nutshell:
 
 ` person me = new perso();
+
+
 if(me.live()){
-me.wakeUp();
-me.drinkCoffee();
-me.eat();
-me.drinkCoffee();
-me.code();
-me.dinkCoffee();
-me.sleep();
+
+
+    me.wakeUp();
+
+
+    me.drinkCoffee();
+
+
+    me.eat();
+
+
+    me.drinkCoffee();
+
+
+    me.code();
+
+
+    me.dinkCoffee();
+
+
+    me.sleep();
+
+
 } `
 
 
