@@ -13,34 +13,17 @@
 
 #### Let me tell you about my life with programming in a nutshell:
 
-` person me = new perso();
 
-
-if(me.live()){
-
-
-    me.wakeUp();
-
-
-    me.drinkCoffee();
-
-
-    me.eat();
-
-
-    me.drinkCoffee();
-
-
-    me.code();
-
-
-    me.dinkCoffee();
-
-
-    me.sleep();
-
-
-} `
+    person me = new perso();
+    if(me.live()){
+      me.wakeUp();
+      me.drinkCoffee();
+      me.eat();
+      me.drinkCoffee();
+      me.code();
+      me.dinkCoffee();
+      me.sleep();
+    }   
 
 
 <!--
