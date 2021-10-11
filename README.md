@@ -19,13 +19,9 @@
 
 
     person me = new perso();
-    if(me.live()){
+    if(me.live() && me.drinkCoffee()){
       me.wakeUp();
-      me.drinkCoffee();
-      me.eat();
-      me.drinkCoffee();
       me.code();
-      me.dinkCoffee();
       me.sleep();
     }   
 
