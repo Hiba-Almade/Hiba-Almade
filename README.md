@@ -3,7 +3,7 @@
 ### Hi there 👋
 #### I'm **Hiba**  :relieved:
 
-##### A Syrian software engineer who graduated from Zarqa University in 2021 :computer:
+##### A Syrian software engineer, I graduated from Zarqa University in 2021 :computer:
 ##### Full-Stack Developer :fire:
   
 
