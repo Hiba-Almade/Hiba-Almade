@@ -20,7 +20,7 @@
 #### Let me tell you about my life with programming in a nutshell: :runner:
 
 
-    person me = new perso();
+    person me = new person();
     if(me.live() && me.drinkCoffee()){
       me.wakeUp();
       me.code();
