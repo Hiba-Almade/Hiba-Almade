@@ -13,7 +13,7 @@
    HTML CSS JavaScript Java :smirk_cat:
 
 ##### Some of the techniques I dell with it:
-   Git GitHub Node.js React Express MongoDB :globe_with_meridians:
+   Git GitHub Node.js React Express MongoDB Sql springBoot AWS :globe_with_meridians:
 
 
 
