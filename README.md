@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <p align="center"><img src="animation.gif" width="35%"></p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=6000&color=%2338C2FF&size=40&height=150dth=800&lines=Hello!+I'm+Hiba+Almade+%3C3;I'+m+a+syrian+software+engineering;and+full-Stack+developer;I+graduated+from+Zarqa+University+in+2021;Welcome+to+my+profile+!">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=6000&color=%2338C2FF&size=40&height=150width=800&lines=Hello!+I'm+Hiba+Almade+%3C3;I'+m+a+syrian+software+engineering;and+full-Stack+developer;I+graduated+from+Zarqa+University+in+2021;Welcome+to+my+profile+!">
 </p>
 
 <p  align="center">
